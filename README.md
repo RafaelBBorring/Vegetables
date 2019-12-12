@@ -9,9 +9,17 @@ Como bonus, se vocÃª comer um alface seu personagem cresce de tamanho ou se vocÃ
 Desenvolvido com [Scratch](https://scratch.mit.edu/).
 
 ## Screenshots
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![home](https://github.com/RafaelBBorring/Vegetables/blob/master/SCREENS/home.png?raw=true)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![creditos](https://github.com/RafaelBBorring/Vegetables/blob/master/SCREENS/creditos.png?raw=true)
+
+![Options](https://github.com/RafaelBBorring/Vegetables/blob/master/SCREENS/options.png?raw=true)
+
+![Game1](https://github.com/RafaelBBorring/Vegetables/blob/master/SCREENS/game1.png?raw=true)
+
+![Game2](https://github.com/RafaelBBorring/Vegetables/blob/master/SCREENS/game2.png?raw=true)
+
+
 
 ## Game play
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+![Game play](https://github.com/RafaelBBorring/Vegetables/blob/master/SCREENS/Demo.gif?raw=true)
